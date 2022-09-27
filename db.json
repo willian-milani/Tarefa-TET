@@ -1,0 +1,100 @@
+{
+    "instrumentos": [
+      {
+        "id": 1,
+        "idLoja": 1,
+        "nome": "Teclado Musical PSRF52 - Yamaha",
+        "tipo": "Instrumento eletônico",
+        "descrição": "O PSR-F52 é o teclado perfeito para quem quer começar aprender a tocar."
+      },
+      {
+        "id": 2,
+        "idLoja": 2,
+        "nome": "Ukulele Soprano 24 Acústico UB-24 S - Benson",
+        "tipo": "Instrumento de corda",
+        "descrição": "O Ukulele é um instrumento de origem curiosa, criado por imigrantes portugueses que se mudaram para o Havaí para trabalhar em fazendas de cana de açúcar."
+      },
+      {
+        "id": 3,
+        "idLoja": 2,
+        "nome": "Shelter - Saxofone Alto SFT6430L",
+        "tipo": "Instrumento de sopro",
+        "descrição": "O saxofone alto Eb Sft6430l Shelter se destaca pela qualidade de sua construção e pelos materias que o compõe."
+      }, 
+      {
+        "id": 4,
+        "idLoja": 1,
+        "nome": "Venova Alto Compacto E Som Autêntico YVS-120 ID - Yamaha",
+        "tipo": "Instrumento de sopro",
+        "descrição": "Um novo e divertido instrumento de sopro que combina a simplicidade da flauta doce com o som do saxofone."
+      },
+      {
+        "id": 5,
+        "idLoja": 2,
+        "nome": "Bateria Série Rocket DR-20 OSS - D-One",
+        "tipo": "Instrumento de percussão",
+        "descrição": "Seguindo o mesmo padrão da D-One, a série Rocket é construída em Poplar, bordas de 45° graus, possui sistema suspenso de 4 pontos e novo tom holder."
+      },
+      {
+        "id": 6,
+        "idLoja": 1,
+        "nome": "Xilofone Infantil Com 8 Notas Colorido 9734 - Dolphin",
+        "tipo": "Instrumento de percussão",
+        "descrição": "Uma linha que estimula a musicalidade e a criatividade das crianças. Os pequenos cada vez mais perto do sucesso."
+      },
+      {
+        "id": 7,
+        "idLoja": 3,
+        "nome": "Guitarra Les Paul Preta LP-601 BK - Maclend",
+        "tipo": "Instrumento de corda",
+        "descrição": "Os instrumentos MacLend são conhecidos por apresentarem longa durabilidade e tom incomparável."
+      },
+      {
+        "id": 8,
+        "idLoja": 3,
+        "nome": "Violão Transacoustic FS-TA BS - Yamaha",
+        "tipo": "Instrumento de corda",
+        "descrição": "O Violão TransAcoustic recria a inacreditável experiência sem a necessidade de amplificação ou efeitos externos, usando apenas o violão acústico."
+      },
+      {
+        "id": 9,
+        "idLoja": 2,
+        "nome": "Piano Digital Compacto Com 73 Teclas P-121B BRA - Yamaha",
+        "tipo": "Instrumento eletônico",
+        "descrição":"O P-121 da Yamaha é um piano digital compacto com 73 teclas que combina design minimalista e prático com um incrível desempenho. Fácil de transportar e de operar, este instrumento dá a você a alegria de tocar piano do seu jeito."
+      },
+      {
+        "id": 10,
+        "idLoja": 2,
+        "nome": "Teclado 61 Teclas Com Bluetooth® GO KEYS GO-61K - Roland",
+        "tipo": "Instrumento eletônico",
+        "descrição": "O GO:KEYS é um teclado divertido e fácil de usar que permite tocar junto com suas músicas favoritas através do seu smartphone."
+      }
+    ],
+    "loja": [
+      {
+        "id": 1,
+        "Loja": "Guitar Company",
+        "Estado": "Rio Janeiro",
+        "Cidade": "Cabo Frio",
+        "Endereço": "Av. Júlia Kubitschek",
+        "CEP": "28905-000"
+      },
+      {
+        "id": 2,
+        "Loja": "Radar",
+        "Estado": "Minas Gerais",
+        "Cidade": "Cataguases",
+        "Endereço": "Praça Gov. Valadares",
+        "CEP": "36770-071"
+      },
+      {
+        "id": 3,
+        "Loja": "Ninja Som",
+        "Estado": "São Paulo",
+        "Cidade": "Campinas",
+        "Endereço": "Av. Brasil",
+        "CEP": "13070-178"
+      } 
+    ]
+  }
